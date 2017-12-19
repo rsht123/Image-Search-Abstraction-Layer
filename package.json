@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/rsht123/Image-Search-Abstraction-Layer/issues"
   },
-  "homepage": "https://github.com/rsht123/Image-Search-Abstraction-Layer#readme"
+  "homepage": "https://github.com/rsht123/Image-Search-Abstraction-Layer#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "node-google-image-search": "^1.0.3"
+  }
 }

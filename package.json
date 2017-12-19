@@ -1,0 +1,19 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "FCC Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsht123/Image-Search-Abstraction-Layer.git"
+  },
+  "author": "Rishit Rathod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsht123/Image-Search-Abstraction-Layer/issues"
+  },
+  "homepage": "https://github.com/rsht123/Image-Search-Abstraction-Layer#readme"
+}
